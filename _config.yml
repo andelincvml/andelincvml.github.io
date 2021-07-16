@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Prof. Di Lin / MD Lab"
+title                    : "Prof. Di Lin / MDV Lab"
 title_separator          : "-"
 name                     : &name "Di Lin"
 description              : &description "personal description"
