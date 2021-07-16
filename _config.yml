@@ -83,13 +83,11 @@ author:
   name             : "Di Lin"
   avatar           : "profile.png"
   bio              : #"Your biography for the left-hand sidebar"
-  location         : "Rm B407, College of Intelligence\ 
-  and Computing, Tianjin University,\ 
-  Tianjin, China"
+  location         : 'Rm B407, College of Intelligence\n and Computing, Tianjin University,\n Tianjin, China'
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rW0r-hMAAAAJ&hl=zh-CN"
-  email            :
+  email            : "Ande.lin1988@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
