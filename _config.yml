@@ -84,7 +84,7 @@ author:
   avatar           : "di.png"
   bio              : "Associate Professor"
   location         : "College of Intelligence and Computing"
-  employer         : "Tianjin University"
+                   : "Tianjin University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rW0r-hMAAAAJ&hl=zh-CN"
   email            : "Ande.lin1988@gmail.com"
