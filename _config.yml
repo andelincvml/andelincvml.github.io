@@ -83,7 +83,8 @@ author:
   name             : "Di Lin"
   avatar           : "di.png"
   bio              : "Associate Professor"
-  location         : "College of Intelligence and Computing, Tianjin University"
+  location         : "College of Intelligence and Computing" 
+  "Tianjin University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=rW0r-hMAAAAJ&hl=zh-CN"
