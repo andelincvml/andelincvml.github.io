@@ -16,7 +16,10 @@ We are recruiting self-motivated students to join MDV lab and work on the intere
 News
 ======
 -06/2021 Our paper "Reciprocal Learning for Semi-supervised Segmentation" is accepted to MICCAI 2021.
+
 -09/2020 Our paper "Deep LSAC for Fine-Grained Recognition" is accepted to TNNLS.
+
 -09/2020 Our paper "RANet: Region Attention Network for Semantic Segmentation" is accepted to NeurIPS 2020.
+
 -06/2019 Our paper "Zig-Zag Network for Semantic Segmentation of RGB-D Images" is accepted to TPAMI.
 
